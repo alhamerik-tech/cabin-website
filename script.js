@@ -11,8 +11,8 @@
 
   /* ---------- Translations ---------- */
   const I18N = {
-    brand_name: { en: 'Wasel Cabin', ar: 'وصل كابينة' },
-    brand_sub: { en: 'Typing & Transaction Center', ar: 'مركز الطباعة والمعاملات' },
+    brand_name: { en: 'Cabin', ar: 'كابين' },
+    brand_sub: { en: 'For Transaction Follow Up L.L.C', ar: 'لمتابعة المعاملات ذ.م.م' },
 
     lang_label: { en: 'ع', ar: 'EN' },
 
@@ -26,8 +26,8 @@
     hero_eyebrow: { en: 'UAE Transaction Support Center', ar: 'مركز دعم المعاملات في الإمارات' },
     hero_title: { en: 'Your transactions, <em>handled with care.</em>', ar: 'معاملاتك، <em> بعناية تامة.</em>' },
     hero_lead: {
-      en: "From residence visa renewals and Emirates ID to labour and visa transactions — Wasel prepares, types, and follows up your paperwork so you don't have to. Clear steps, honest updates, real follow-up.",
-      ar: 'من تجديد إقامات وبطاقات الهوية إلى معاملات العمل والتأشيرات — يُعدّ وصل، ويطبع، ويتابع أوراقك نيابةً عنك. خطوات واضحة، تحديثات صادقة، ومتابعة حقيقية.',
+      en: "From residence visa renewals and Emirates ID to labour and visa transactions — Cabin prepares, types, and follows up your paperwork so you don't have to. Clear steps, honest updates, real follow-up.",
+      ar: 'من تجديد إقامات وبطاقات الهوية إلى معاملات العمل والتأشيرات — يُعدّ كابين، ويطبع، ويتابع أوراقك نيابةً عنك. خطوات واضحة، تحديثات صادقة، ومتابعة حقيقية.',
     },
     hero_cta_primary: { en: 'Start a request', ar: 'ابدأ طلبًا' },
     hero_cta_secondary: { en: 'Explore services', ar: 'استكشف الخدمات' },
@@ -43,11 +43,11 @@
     trust_4_num: { en: 'WSL', ar: 'WSL' },
     trust_4: { en: 'Reference number for every request', ar: 'رقم مرجعي لكل طلب' },
 
-    process_eyebrow: { en: 'How Wasel works', ar: 'كيف يعمل وصل' },
+    process_eyebrow: { en: 'How Cabin works', ar: 'كيف يعمل كابين' },
     process_title: { en: 'A clear path from paperwork to follow-up', ar: 'مسار واضح من الأوراق إلى المتابعة' },
     process_lead: {
-      en: 'Wasel assists with preparing, typing, and following up your transactions. Final approvals and issuance remain with the relevant UAE government authorities.',
-      ar: 'يساعد وصل في إعداد وتطبيع ومتابعة معاملاتك. تبقى الموافقات النهائية والإصدار لدى الجهات الحكومية الإماراتية المختصة.',
+      en: 'Cabin assists with preparing, typing, and following up your transactions. Final approvals and issuance remain with the relevant UAE government authorities.',
+      ar: 'يساعد كابين في إعداد وتطبيع ومتابعة معاملاتك. تبقى الموافقات النهائية والإصدار لدى الجهات الحكومية الإماراتية المختصة.',
     },
     step_1_title: { en: 'Tell us what you need', ar: 'أخبرنا بما تحتاجه' },
     step_1_desc: { en: 'Choose a service, share your details, and upload your documents through the request form.', ar: 'اختر الخدمة، شارك بياناتك، وارفع مستنداتك عبر نموذج الطلب.' },
@@ -61,8 +61,8 @@
     services_eyebrow: { en: 'What we assist with', ar: 'ما نساعدك به' },
     services_title: { en: 'Services for individuals & businesses', ar: 'خدمات للأفراد والشركات' },
     services_lead: {
-      en: "Whether you're renewing a single visa or managing transactions for a growing team, Wasel handles the typing, preparation, and follow-up.",
-      ar: 'سواء كنت تجدد تأشيرة واحدة أو تدير معاملات لفريق متنامٍ، يتولى وصل الطباعة والإعداد والمتابعة.',
+      en: "Whether you're renewing a single visa or managing transactions for a growing team, Cabin handles the typing, preparation, and follow-up.",
+      ar: 'سواء كنت تجدد تأشيرة واحدة أو تدير معاملات لفريق متنامٍ، يتولى كابين الطباعة والإعداد والمتابعة.',
     },
     svc_visa_tag: { en: 'Individuals', ar: 'أفراد' },
     svc_visa_title: { en: 'Residence Visa Renewals', ar: 'تجديد إقامات' },
@@ -190,10 +190,10 @@
     footer_location: { en: 'Abu Dhabi, UAE', ar: 'أبوظبي، الإمارات' },
     footer_hours: { en: 'Sat–Thu · 8am–9pm', ar: 'السبت–الخميس · ٨ص–٩م' },
     disclaimer: {
-      en: 'Wasel Cabin for Typing & Transaction Center assists customers with preparing, typing, and following up transactions. Final approvals and issuance are handled by the relevant UAE government authorities. Wasel Cabin is an independent typing and support center and is not a government entity. Prices shown are illustrative; contact us for a confirmed quote.',
-      ar: 'يساعد وصل كابينة للطباعة والمعاملات العملاء في إعداد وطباعة ومتابعة المعاملات. تتولى الجهات الحكومية الإماراتية المختصة الموافقات النهائية والإصدار. وصل كابينة مركز طباعة ودعم مستقل وليس جهة حكومية. الأسعار المعروضة توضيحية؛ تواصل معنا لعرض سعر مؤكد.',
+      en: 'Cabin for Transaction Follow Up L.L.C assists customers with preparing, typing, and following up transactions. Final approvals and issuance are handled by the relevant UAE government authorities. Cabin is an independent typing and support center and is not a government entity. Prices shown are illustrative; contact us for a confirmed quote.',
+      ar: 'يساعد كابين لمتابعة المعاملات ذ.م.م العملاء في إعداد وطباعة ومتابعة المعاملات. تتولى الجهات الحكومية الإماراتية المختصة الموافقات النهائية والإصدار. كابين مركز طباعة ودعم مستقل وليس جهة حكومية. الأسعار المعروضة توضيحية؛ تواصل معنا لعرض سعر مؤكد.',
     },
-    footer_rights: { en: '© 2026 Wasel Cabin for Typing & Transaction Center. All rights reserved.', ar: '© 2026 وصل كابينة للطباعة والمعاملات. جميع الحقوق محفوظة.' },
+    footer_rights: { en: '© 2026 Cabin for Transaction Follow Up L.L.C. All rights reserved.', ar: '© 2026 كابين لمتابعة المعاملات ذ.م.م. جميع الحقوق محفوظة.' },
     footer_made: { en: 'Abu Dhabi · United Arab Emirates', ar: 'أبوظبي · الإمارات العربية المتحدة' },
   };
 
@@ -451,7 +451,7 @@
         </div>
       </div>`;
 
-    const waMsg = `Hello Wasel, I've submitted a request (ref: ${ref}).\nService: ${serviceLabel}\nName: ${document.getElementById('firstName').value} ${document.getElementById('lastName').value}\nMobile: ${document.getElementById('phone').value}`;
+    const waMsg = `Hello Cabin, I've submitted a request (ref: ${ref}).\nService: ${serviceLabel}\nName: ${document.getElementById('firstName').value} ${document.getElementById('lastName').value}\nMobile: ${document.getElementById('phone').value}`;
     successAlert.querySelector('#waSubmit').href = buildWaLink(waMsg);
 
     // place success alert after the form

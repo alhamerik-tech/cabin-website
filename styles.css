@@ -1153,15 +1153,15 @@ select {
   align-items: flex-start;
   margin-bottom: var(--space-4);
 }
-.footer__about svg {
-  width: 2.25rem;
-  height: 2.25rem;
-  color: var(--color-primary);
+.footer__about img {
+  width: auto;
+  height: 4.5rem;
   flex: none;
 }
 .footer__about b {
   font-family: var(--font-display);
   font-size: var(--text-base);
+  color: var(--color-primary);
 }
 .footer__about p {
   font-size: var(--text-xs);

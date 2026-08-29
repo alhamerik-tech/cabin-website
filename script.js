@@ -304,7 +304,7 @@
   document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
 
   /* ---------- WhatsApp helpers ---------- */
-  const WA_NUMBER = '971500000000';
+  const WA_NUMBER = '971545557857';
   function buildWaLink(message) {
     return `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(message)}`;
   }

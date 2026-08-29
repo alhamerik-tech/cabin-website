@@ -82,6 +82,10 @@
     svc_followup_tag: { en: 'Follow-up', ar: 'متابعة' },
     svc_followup_title: { en: 'Transaction Follow-up', ar: 'متابعة المعاملات' },
     svc_followup_desc: { en: 'We follow up on submitted transactions and keep you updated using your WSL reference number.', ar: 'نتابع المعاملات المقدمة ونُبقيك على اطلاع عبر رقمك المرجعي WSL.' },
+    svc_others_tag: { en: 'Others', ar: 'أخرى' },
+    svc_others_title: { en: 'Other typing & transaction support', ar: 'دعم طباعة ومعاملات أخرى' },
+    svc_others_desc: { en: 'Don\'t see your transaction listed? Tell us what you need \u2014 we assist with a wide range of typing and document services.', ar: 'لا ترى معاملتك مدرجة؟ أخبرنا بما تحتاجه \u2014 نساعد في طيف واسع من خدمات الطباعة والمستندات.' },
+    svc_others_cta: { en: 'Request this service', ar: 'اطلب هذه الخدمة' },
 
     pkg_eyebrow: { en: 'For businesses', ar: 'للشركات' },
     pkg_title: { en: 'Corporate packages with prepaid credits', ar: 'باقات مؤسسية برصيد مسبق' },
@@ -147,6 +151,7 @@
     opt_labour: { en: 'Labour-related transaction', ar: 'معاملة عمل' },
     opt_typing: { en: 'Document typing & photocopying', ar: 'طباعة وتصوير المستندات' },
     opt_followup: { en: 'Transaction follow-up', ar: 'متابعة معاملة' },
+    opt_others: { en: 'Other typing & transaction support', ar: 'دعم طباعة ومعاملات أخرى' },
     opt_corp: { en: 'Corporate package (Basic/Silver/Gold)', ar: 'باقة مؤسسية (أساسية/فضية/ذهبية)' },
 
     dz_title: { en: 'Drop files here or click to browse', ar: 'أفلت الملفات هنا أو تصفح' },

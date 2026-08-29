@@ -649,6 +649,25 @@ select {
   text-transform: uppercase;
 }
 
+/* Wide "Others" card — spans full grid row, horizontal layout */
+.card--wide {
+  grid-column: 1 / -1;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--space-6);
+  flex-wrap: wrap;
+  background: linear-gradient(in oklab, var(--color-surface), var(--color-surface-offset));
+}
+.card--wide .card__body {
+  flex: 1 1 18rem;
+}
+.card--wide .card__body h3 {
+  margin-bottom: var(--space-2);
+}
+.card--wide .btn {
+  flex: none;
+}
+
 /* ---------- Packages ---------- */
 .packages {
   background: var(--color-surface-offset);

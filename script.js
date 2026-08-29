@@ -11,7 +11,7 @@
 
   /* ---------- Translations ---------- */
   const I18N = {
-    brand_name: { en: 'Wasel', ar: 'وصل' },
+    brand_name: { en: 'Wasel Cabin', ar: 'وصل كابينة' },
     brand_sub: { en: 'Typing & Transaction Center', ar: 'مركز الطباعة والمعاملات' },
 
     lang_label: { en: 'ع', ar: 'EN' },
@@ -190,10 +190,10 @@
     footer_location: { en: 'Abu Dhabi, UAE', ar: 'أبوظبي، الإمارات' },
     footer_hours: { en: 'Sat–Thu · 8am–9pm', ar: 'السبت–الخميس · ٨ص–٩م' },
     disclaimer: {
-      en: 'Wasel Typing & Transaction Center assists customers with preparing, typing, and following up transactions. Final approvals and issuance are handled by the relevant UAE government authorities. Wasel is an independent typing and support center and is not a government entity. Prices shown are illustrative; contact us for a confirmed quote.',
-      ar: 'يساعد مركز وصل للطباعة والمعاملات العملاء في إعداد وطباعة ومتابعة المعاملات. تتولى الجهات الحكومية الإماراتية المختصة الموافقات النهائية والإصدار. وصل مركز طباعة ودعم مستقل وليس جهة حكومية. الأسعار المعروضة توضيحية؛ تواصل معنا لعرض سعر مؤكد.',
+      en: 'Wasel Cabin for Typing & Transaction Center assists customers with preparing, typing, and following up transactions. Final approvals and issuance are handled by the relevant UAE government authorities. Wasel Cabin is an independent typing and support center and is not a government entity. Prices shown are illustrative; contact us for a confirmed quote.',
+      ar: 'يساعد وصل كابينة للطباعة والمعاملات العملاء في إعداد وطباعة ومتابعة المعاملات. تتولى الجهات الحكومية الإماراتية المختصة الموافقات النهائية والإصدار. وصل كابينة مركز طباعة ودعم مستقل وليس جهة حكومية. الأسعار المعروضة توضيحية؛ تواصل معنا لعرض سعر مؤكد.',
     },
-    footer_rights: { en: '© 2026 Wasel Typing & Transaction Center. All rights reserved.', ar: '© 2026 مركز وصل للطباعة والمعاملات. جميع الحقوق محفوظة.' },
+    footer_rights: { en: '© 2026 Wasel Cabin for Typing & Transaction Center. All rights reserved.', ar: '© 2026 وصل كابينة للطباعة والمعاملات. جميع الحقوق محفوظة.' },
     footer_made: { en: 'Abu Dhabi · United Arab Emirates', ar: 'أبوظبي · الإمارات العربية المتحدة' },
   };
 

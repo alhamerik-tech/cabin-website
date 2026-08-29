@@ -22,11 +22,11 @@
   --color-text-faint: #a8957a;
   --color-text-inverse: #fbf6ee;
 
-  /* Primary — deep burgundy */
-  --color-primary: #7a2230;
-  --color-primary-hover: #5f1822;
-  --color-primary-active: #4a1119;
-  --color-primary-highlight: #ecd3d6;
+  /* Primary — logo navy */
+  --color-primary: #1c2a44;
+  --color-primary-hover: #131e33;
+  --color-primary-active: #0c1525;
+  --color-primary-highlight: #d7deea;
 
   /* Accent — date gold */
   --color-accent: #b07a1e;
@@ -76,10 +76,10 @@
   --color-text-faint: #7a6a52;
   --color-text-inverse: #221a12;
 
-  --color-primary: #c87d8a;
-  --color-primary-hover: #d99aa5;
-  --color-primary-active: #a85f6c;
-  --color-primary-highlight: #3a2226;
+  --color-primary: #8aa0c8;
+  --color-primary-hover: #a4b6d6;
+  --color-primary-active: #6f86b8;
+  --color-primary-highlight: #2a3550;
 
   --color-accent: #d9a743;
   --color-accent-hover: #e8bd5e;
